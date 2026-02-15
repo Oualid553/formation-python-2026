@@ -16,8 +16,8 @@ Cette partie couvre les bases essentielles de Python :
 
 | Section | Titre | Statut |
 |---------|-------|--------|
-| 12 | Types natifs | ⏳ À faire |
-| 13 | Variables | ⏳ À faire |
+| 12 | Types natifs | ✅ Validée |
+| 13 | Variables | ✅ Validée |
 | 14 | Conversion | ⏳ À faire |
 | 15 | Input | ⏳ À faire |
 | 16 | Résolution problèmes | ⏳ À faire |
@@ -31,6 +31,12 @@ Cette partie couvre les bases essentielles de Python :
 | 25 | Méthodes | ⏳ À faire |
 | 26 | Boucles | ⏳ À faire |
 | 27 | Exercices boucles | ⏳ À faire |
+
+---
+
+**Début :** 15 février 2026  
+**Sections complétées :** 2/15  
+**Objectif fin :** Mars 2026
 
 ---
 

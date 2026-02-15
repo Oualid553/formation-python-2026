@@ -30,13 +30,13 @@ Objectif final : CDI à Alger, Algérie
 
 | Phase | Sections | Statut |
 |-------|----------|--------|
-| Fondations | 12-32 | 🔄 En cours |
+| Fondations | 12-32 | 🔄 En cours (2/21 complétées) |
 | Intermédiaire | 33-61 | ⏳ À venir |
 | Django | 71-74 | ⏳ À venir |
 
-**Sections validées :** 0/80  
+**Sections validées :** 2/80 (2.5%)  
 **Projets complétés :** 0/17  
-**Commits totaux :** 1
+**Commits totaux :** 6
 
 ## 🛠️ Stack Technique Visée
 - **Backend :** Python, Django, Django REST Framework
