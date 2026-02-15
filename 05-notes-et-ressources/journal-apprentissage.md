@@ -112,3 +112,167 @@ Hâte de continuer demain avec les variables !
 
 
 ---
+
+
+---
+
+### Jour 1 (suite) / Jour 2 - Samedi 15 Février 2026 (soir)
+
+**Sections étudiées :** Section 13 - Les variables  
+**Temps codé :** ~2h  
+**Commits :** 2
+
+---
+
+#### 📚 CE QUE J'AI APPRIS
+
+**Section 13 - Les variables :**
+- Définition d'une variable : un nom qui référence un objet
+- Concept Python : objets et noms (différent d'autres langages)
+- Affectations simples : `a = 5`
+- Affectations parallèles : `a, b = 1, 2` (pas encore pratiqué)
+- Affectations multiples : `a = b = c = 0` (pas encore pratiqué)
+
+**Règles de nommage :**
+- ✅ Lettres (a-z, A-Z)
+- ✅ Chiffres (mais pas au début)
+- ✅ Underscores `_`
+- ❌ Espaces interdits
+- ❌ Caractères spéciaux (@, %, $, etc.)
+- ❌ Mots-clés Python (`print`, `if`, `for`, etc.)
+
+**Conventions (PEP 8) :**
+- Variables en minuscules : `age`, `prenom`
+- Mots multiples avec underscore : `compte_en_banque`
+- Noms explicites : `prix_total` plutôt que `p`
+
+**Concepts importants :**
+- Quand on fait `a = b`, on copie la VALEUR (pas de lien permanent)
+- Python : objets dans la mémoire, variables = étiquettes sur ces objets
+- Singleton et small integer caching (concept avancé, à creuser)
+
+---
+
+#### 😓 DIFFICULTÉS RENCONTRÉES
+
+**Concepts :**
+- Quiz 6 : 5/7 (71%) - 2 erreurs (probablement affectations multiples/parallèles)
+- Quiz 7 : 6/7 (86%) - 1 erreur (concept non identifié)
+- Singleton et caching : pas totalement compris (normal, concept avancé)
+
+**Pratique :**
+- Exercice 6 : Hésitation sur `_a` et `a_` (en fait valides, mais j'ai choisi de supprimer)
+
+---
+
+#### 🎉 VICTOIRES DU JOUR
+
+- ✅ Section 13 terminée en 2h
+- ✅ Tous les exercices réussis (4/4 - 100%)
+- ✅ Bonne compréhension des règles de nommage
+- ✅ Concept "copie de valeur" bien compris (exercice 7 parfait)
+- ✅ Rigueur : code de base + correction dans chaque exercice
+- ✅ 2 sections validées en 1 journée (12 + 13)
+
+---
+
+#### 📊 SCORES QUIZ
+
+**Section 13 :**
+- Quiz 6 (Introduction variables) : 5/7 (71%)
+- Quiz 7 (Variables) : 6/7 (86%)
+- **Total : 11/14 (79%)**
+
+**Exercices :**
+- Exercice 4 : Déclarer variables ✅
+- Exercice 5 : Corriger erreur ✅
+- Exercice 6 : Syntaxe ✅
+- Exercice 7 : Valeur variable ✅
+- **Total : 4/4 (100%)**
+
+---
+
+#### 😊 ÉTAT D'ESPRIT
+
+😃 **Satisfait et motivé !**
+
+Pause d'une heure au milieu qui m'a permis de recharger les batteries. La Section 13 était plus facile que la 12 (concepts déjà vus ailleurs). Content de voir que je progresse vite quand je suis concentré.
+
+Petite frustration sur les quiz (79% vs 100% en Section 12), mais les exercices parfaits montrent que je comprends bien en pratique.
+
+Envie de continuer sur ma lancée !
+
+---
+
+#### 🎯 OBJECTIFS PROCHAINE SESSION
+
+**Si je continue ce soir :**
+- Section 14 : Conversion de types
+- Section 15 : Input utilisateur
+
+**Sinon demain matin :**
+- Révision rapide sections 12-13 (10 min)
+- Sections 14-15-16
+- Premier mini-projet VTC
+
+---
+
+#### 💭 RÉFLEXIONS
+
+**Ce qui marche bien :**
+- Pause au milieu = meilleure concentration après
+- Format code de base + correction dans exercices (bon pour révision)
+- Rigueur sur les commits (portfolio se construit)
+
+**À améliorer :**
+- Revoir les points flous des quiz (affectations multiples/parallèles)
+- Peut-être ralentir sur les concepts avancés (singleton, caching)
+
+---
+
+---
+
+---
+
+### Section 14 - Samedi 15 Février 2026 (soir ~21h)
+
+**Section étudiée :** Section 14 - Conversion de types  
+**Temps codé :** ~1h  
+**Commits :** 1
+
+**Ce que j'ai appris :**
+- Fonctions de conversion : `str()`, `int()`, `float()`, `bool()`
+- Python fortement typé : pas de conversion automatique str + int
+- Concaténation de chaînes avec `+`
+- Ordre des opérations : calcul d'abord, puis conversion
+- Différence entre addition (`10 + 5`) et concaténation (`"10" + "5"`)
+
+**Difficultés rencontrées :**
+- Exercice 9 : Comprendre que les `" + "` sont du texte (5 min de réflexion)
+- Exercice 1 ligne d : Comprendre `str(10 + 5)` → calcul d'abord, puis conversion
+
+**Victoires du jour :**
+- ✅ **3 sections validées en 1 jour !** (12, 13, 14)
+- ✅ Score parfait Section 14 (100% quiz + 100% exercices)
+- ✅ Exercice challenge réussi du premier coup
+- ✅ Code identique à la correction officielle
+
+**Scores quiz :**
+- Quiz 8 : 5/5 (100%) ✅
+
+**Exercices :**
+- Exercice 8 : Convertir variable ✅
+- Exercice 9 : Concaténer variables ✅
+- Exercice 1 : La concaténation ✅
+
+**État d'esprit :** 😃 **Très motivé mais fatigué !**
+
+Grosse journée productive. Content d'avoir continué ce soir malgré la fatigue. La Section 14 était plus facile que prévu (concepts déjà vus en Section 12). Satisfaction d'avoir 3 sections validées en 1 jour !
+
+**Objectifs demain :** Sections 15-17 + Premier projet VTC
+
+---
+
+**Session terminée :** ~21h30  
+**Prochaine session :** Demain 9h00
+---

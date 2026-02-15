@@ -7,19 +7,19 @@
 
 | Métrique | Valeur |
 |----------|--------|
-| Sections validées | 2/80 |
+| Sections validées | 3/80 |
 | Projets Docstring | 0/17 |
 | Projets VTC perso | 0 |
-| Heures codées (total) | ~6-7h |
-| Commits GitHub | 6 |
-| Exercices résolus | 7 |
+| Heures codées (total) | ~7-8h |
+| Commits GitHub | 7+ |
+| Exercices résolus | 10 |
 
 ## Progression Hebdomadaire
 
 ### Semaine 1 (15-21 Février)
 - **Heures :** ~6-7h
-- **Sections :** 2 (Sections 12-13)
-- **Commits :** 6
+- **Sections :** 3 (Sections 12-13-14)
+- **Commits :** 7+
 - **Projets :** 0
 
 ---
@@ -46,6 +46,11 @@
 - Quiz 6 : 5/7 (71%)
 - Quiz 7 : 6/7 (86%)
 - Exercices : 4/4 (100%)
+- **Statut : Validée**
+
+### Section 14 - Conversion de types ✅
+- Quiz 8 : 5/5 (100%)
+- Exercices : 3/3 (100%)
 - **Statut : Validée**
 
 ---
