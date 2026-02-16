@@ -276,3 +276,165 @@ Grosse journée productive. Content d'avoir continué ce soir malgré la fatigue
 **Session terminée :** ~21h30  
 **Prochaine session :** Demain 9h00
 ---
+---
+
+### Jour 2 - Dimanche 16 Février 2026
+
+**Sections étudiées :** Section 15 (Input), Section 16 (Résolution problèmes), Section 17 (Strings)  
+**Temps codé :** ~7-8h  
+**Commits :** 10+
+
+---
+
+#### 📚 CE QUE J'AI APPRIS
+
+**Section 15 - Input utilisateur :**
+- Fonction `input()` retourne TOUJOURS une chaîne (str)
+- Conversion obligatoire pour calculs : `int(input(...))`, `float(input(...))`
+- Messages clairs pour l'utilisateur
+- Application immédiate dans projet VTC
+
+**Section 16 - Résolution de problèmes :**
+- **Méthodologie CRUCIALE** : Décrire en français AVANT de coder
+- Ne jamais partir directement dans le code
+- Décomposer le problème en étapes simples
+- Utiliser papier/stylo pour réfléchir
+- Documentation Python officielle (en français)
+- Processus itératif normal
+
+**Section 17 - Manipuler les chaînes (DENSE !) :**
+- **Casse :** `upper()`, `lower()`, `title()`, `capitalize()`
+- **Remplacement :** `replace(old, new)` - Remplace TOUTES occurrences
+- **Nettoyer :** `strip()`, `lstrip()`, `rstrip()` - Analyse caractère par caractère
+- **Séparer/Joindre :** `split()` (STRING→LISTE), `join()` (LISTE→STRING)
+- **Zéros :** `zfill(width)` pour séquences numérotées
+- **Validation :** `isdigit()`, `isalpha()`, `isalnum()` - Critique avant conversion
+- **Compter :** `count(sub)` - Compte CARACTÈRES, pas mots
+- **Trouver :** `find()` (retourne -1), `index()` (fait erreur)
+- **Début/Fin :** `startswith()`, `endswith()` - Extensions fichiers
+
+**Point CRITIQUE retenu :**
+- Les méthodes strings NE MODIFIENT PAS l'original !
+- Toujours STOCKER le résultat : `nouveau = texte.upper()`
+
+---
+
+#### 😓 DIFFICULTÉS RENCONTRÉES
+
+**Section 15 :**
+- Aucune difficulté majeure (concepts déjà vus en Section 14)
+
+**Section 16 :**
+- Section théorique/méthodologique (pas de code)
+- Vidéos 95-97 = podcasts culturels (optionnels)
+
+**Section 17 (LA PLUS DENSE) :**
+- 15+ méthodes d'un coup = Beaucoup d'informations
+- **Quiz 9 :** Erreur sur syntaxe `join()` avec les crochets
+- **Exercice 11 :** Oublié `.lower()` pour insensibilité à la casse
+- **Exercice 13 :** Petit blocage sur stockage résultat `join()`
+- Confusion `strip()` : analyse caractère par caractère, pas chaîne entière
+
+**Concepts qui demandent attention :**
+- `join()` : Syntaxe inversée `"sep".join(liste)` (pas intuitif)
+- `strip()` : Chaque caractère individuellement, pas la chaîne
+- `count()` : Compte caractères, pas mots (ajouter espace pour mots)
+- `find()` vs `index()` : -1 vs erreur
+
+---
+
+#### 🎉 VICTOIRES DU JOUR
+
+**Projet VTC :**
+- ✅ **Premier projet perso créé !** Calculateur de tarif VTC v1
+- ✅ Code fonctionnel à 96%
+- ✅ Méthodologie Section 16 appliquée (décomposition en français)
+- ✅ Application concrète des sections 12-16
+
+**Apprentissage :**
+- ✅ **Section 17 maîtrisée** malgré la densité (96% moyenne)
+- ✅ Entraînement split/join réussi (100%)
+- ✅ Autonomie : Cherché dans la documentation quand bloqué
+- ✅ **Cheatsheet complète** créée pour référence permanente
+
+**Progression :**
+- ✅ 3 sections validées en 1 jour
+- ✅ Méthodologie professionnelle acquise
+- ✅ Portfolio GitHub s'enrichit
+
+---
+
+#### 📊 SCORES QUIZ & EXERCICES
+
+**Section 15 :**
+- Exercice 2 : 100% ✅
+
+**Section 16 :**
+- Pas d'exercices (méthodologie)
+
+**Section 17 :**
+- Quiz 9 : 7/8 (87.5%) ✅
+- Exercice 10 : 100% ✅
+- Exercice 11 : 95% ⚠️ (oublié `.lower()`)
+- Exercice 12 : 100% ✅
+- Exercice 13 : 100% ✅
+- **Moyenne globale : 96%**
+
+---
+
+#### 😊 ÉTAT D'ESPRIT
+
+😃 **Surmotivé et fier !**
+
+Grosse journée productive mais intense. La Section 17 était vraiment dense (15+ méthodes), j'ai dû créer une cheatsheet complète pour tout retenir. Très content d'avoir appliqué la méthodologie de la Section 16 pour mon projet VTC.
+
+**Citation du jour :** "Ça change vraiment de travailler avec Claude comme mentor, ça m'aide énormément ! Et ça me surmotive !"
+
+Premier vrai projet personnel créé et fonctionnel. Satisfaction de voir le code marcher et de comprendre chaque ligne.
+
+Petite fatigue en fin de journée après 7-8h de travail concentré, mais satisfaction immense d'avoir maîtrisé une section difficile.
+
+---
+
+#### 🎯 OBJECTIFS JOUR 3
+
+**Sections prévues :**
+- Section 18 : Opérateurs
+- Section 19 : Formatage
+- Section 20 : PROJET #1 - Calculatrice (Docstring)
+
+**Ou révision si besoin :**
+- Revoir sections 12-17
+- Améliorer projet VTC v1
+- Créer cheatsheets manquantes
+
+---
+
+#### 💭 RÉFLEXIONS
+
+**Ce qui marche bien :**
+- Créer cheatsheet pendant section dense (référence immédiate)
+- Entraînement ciblé sur points difficiles (split/join)
+- Chercher dans documentation = compétence pro
+- Appliquer immédiatement dans projet perso
+
+**À améliorer :**
+- Penser `.lower()` pour comparaisons insensibles à la casse
+- Utiliser variables fournies (pas valeurs en dur)
+- Toujours vérifier stockage résultat des méthodes
+
+**Leçon importante :**
+- Section dense ≠ impossible
+- Cheatsheet + pratique = maîtrise
+- Erreurs comprises = apprentissage solide
+
+---
+
+**Heures totales Jour 2 :** 7-8h  
+**Sections totales :** 5/80 (6.25%)  
+**Projets créés :** 1 (VTC Calculateur v1)
+
+---
+
+**Session terminée :** ~18h00  
+**Prochaine session :** Mardi 17 février, 11h00 
