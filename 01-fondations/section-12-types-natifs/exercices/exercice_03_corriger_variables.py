@@ -3,10 +3,10 @@
 # Oualid - 15 février 2026
 
 #Corriger ce code :
-a = -2..5
-b = true
-c = falce
-d = Bonjour tout le monde
+# a = -2..5
+# b = true
+# c = falce
+# d = Bonjour tout le monde
 
 
 # CODE CORRIGÉ :

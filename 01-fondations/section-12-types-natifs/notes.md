@@ -7,234 +7,186 @@
 
 ---
 
-## 📚 Les 4 types de base en Python
+## 📚 Les 4 types natifs de base
 
-### 1. str (string) - Chaîne de caractères
+### 1. **str** (string - chaîne de caractères)
 
-**Définition :** Texte, mot, phrase
-
-**Exemples :**
+Représente du texte.
 ```python
 nom = "Oualid"
 ville = 'Alger'
-message = """Texte
-sur plusieurs
-lignes"""
+description = """Chauffeur VTC
+en reconversion"""
+
+print(type(nom))  # <class 'str'>
 ```
 
 **Points clés :**
-- Guillemets simples `'...'` ou doubles `"..."`
-- Triple guillemets `"""..."""` pour plusieurs lignes
-- Échappement avec `\` : `'Je m\'appelle'`
+- Guillemets simples `'...'` ou doubles `"..."` (équivalents)
+- Triple guillemets `"""..."""` pour texte multi-lignes
+- Caractères échappés : `\'`, `\"`, `\n`
 
 ---
 
-### 2. int (integer) - Nombre entier
+### 2. **int** (integer - nombre entier)
 
-**Définition :** Nombre sans décimales
-
-**Exemples :**
+Représente un nombre entier (sans virgule).
 ```python
 age = 36
 annees_vtc = 5
-nombre_negatif = -10
+temperature = -10
+
+print(type(age))  # <class 'int'>
 ```
 
 **Points clés :**
-- Pas de guillemets
-- Peut être positif, négatif ou zéro
-- Opérations : `+`, `-`, `*`, `/`, `//`, `%`, `**`
+- Positif ou négatif
+- Pas de limite de taille (Python gère automatiquement)
+- Pas de virgule/point décimal
 
 ---
 
-### 3. float - Nombre décimal
+### 3. **float** (nombre décimal)
 
-**Définition :** Nombre avec virgule (point en Python)
-
-**Exemples :**
+Représente un nombre à virgule flottante.
 ```python
-prix = 45.50
-distance = 12.8
+prix_course = 45.50
+distance_km = 12.8
 pi = 3.14159
+
+print(type(prix_course))  # <class 'float'>
 ```
 
 **Points clés :**
-- Utilise le POINT `.` (pas la virgule)
-- Plus précis que int pour les calculs
-- Attention aux arrondis
+- Utilise le point `.` (pas la virgule)
+- Précision limitée (15-17 chiffres significatifs)
+- Peut avoir notation scientifique : `1.5e3` = 1500.0
 
 ---
 
-### 4. bool (boolean) - Booléen
+### 4. **bool** (boolean - booléen)
 
-**Définition :** Vrai ou Faux uniquement
-
-**Valeurs possibles :**
+Représente une valeur de vérité : vrai ou faux.
 ```python
-True   # Vrai (avec majuscule !)
-False  # Faux (avec majuscule !)
-```
-
-**Exemples :**
-```python
-est_majeur = True
+est_disponible = True
 client_satisfait = False
-age_valide = age >= 18  # Retourne True ou False
+
+print(type(est_disponible))  # <class 'bool'>
 ```
 
 **Points clés :**
-- Seulement 2 valeurs : `True` et `False`
-- ATTENTION aux majuscules (pas `true` ou `false`)
-- Résultat des comparaisons : `>`, `<`, `==`, `!=`, `>=`, `<=`
+- Seulement 2 valeurs possibles : `True` et `False`
+- **Majuscules obligatoires** (pas `true`/`false`)
+- Résultat des comparaisons : `age > 18` → `True` ou `False`
 
 ---
 
 ## 🔧 Fonctions importantes
 
-### Vérifier le type : `type()`
+### Fonction `type()` - Vérifier le type
 ```python
-age = 36
-print(type(age))  # <class 'int'>
+variable = 42
+print(type(variable))  # <class 'int'>
 
-prix = 45.50
-print(type(prix))  # <class 'float'>
-
-nom = "Oualid"
-print(type(nom))  # <class 'str'>
-
-actif = True
-print(type(actif))  # <class 'bool'>
+variable = "texte"
+print(type(variable))  # <class 'str'>
 ```
+
+**Utilité :** Savoir quel type de données on manipule
 
 ---
 
-### Convertir les types (constructeurs)
+### Fonctions de conversion
 
-**int() - Convertir en entier**
-```python
-prix_texte = "45"
-prix_nombre = int(prix_texte)  # "45" → 45
-```
-
-**float() - Convertir en décimal**
-```python
-distance_texte = "12.5"
-distance_nombre = float(distance_texte)  # "12.5" → 12.5
-```
-
-**str() - Convertir en texte**
+**Convertir en chaîne :**
 ```python
 age = 36
-age_texte = str(age)  # 36 → "36"
+age_str = str(age)  # "36"
 ```
 
-**bool() - Convertir en booléen**
+**Convertir en entier :**
 ```python
-valeur = bool(1)   # True
-vide = bool(0)     # False
-texte = bool("")   # False (chaîne vide)
+prix = "45"
+prix_int = int(prix)  # 45
+```
+
+**Convertir en décimal :**
+```python
+distance = "12.5"
+distance_float = float(distance)  # 12.5
+```
+
+**Convertir en booléen :**
+```python
+valeur = bool(1)  # True
+valeur = bool(0)  # False
 ```
 
 ---
 
 ## 💡 Points importants à retenir
 
-### Comparaison de valeurs vs types
+### Python compare les VALEURS, pas les TYPES
 ```python
-a = 10       # int
-b = 10.0     # float
+a = 10      # int
+b = 10.0    # float
 
-print(a == b)           # True (valeurs identiques)
+print(a == b)  # True (même valeur)
 print(type(a) == type(b))  # False (types différents)
 ```
 
-**→ Python compare les VALEURS, pas les TYPES**
-
----
-
-### input() retourne TOUJOURS du texte
+### `input()` retourne TOUJOURS une chaîne
 ```python
 age = input("Ton âge : ")  # age est un str !
 
-# ❌ ERREUR
-if age > 18:  # Impossible de comparer str et int
+# Pour faire des calculs :
+age = int(input("Ton âge : "))  # Convertir en int
+```
 
-# ✅ CORRECT
-age = int(input("Ton âge : "))  # Conversion en int
-if age > 18:  # OK !
+### Impossible de mélanger str + int
+```python
+"10" + 5  # ❌ ERREUR TypeError
+
+# Solutions :
+"10" + str(5)   # ✅ "105" (concaténation)
+int("10") + 5   # ✅ 15 (addition)
 ```
 
 ---
 
-### Concaténation vs Addition
-```python
-# ❌ ERREUR - Types incompatibles
-"Prix : " + 45  # str + int impossible
+## 🎯 Concepts clés maîtrisés
 
-# ✅ Solution 1 : Tout en texte
-"Prix : " + str(45)  # "Prix : 45"
-
-# ✅ Solution 2 : f-string (plus propre)
-prix = 45
-f"Prix : {prix}"  # "Prix : 45"
-```
-
----
-
-### Guillemets et apostrophes
-```python
-# ❌ ERREUR
-nom = 'Je m'appelle Pierre'  # L'apostrophe coupe la chaîne
-
-# ✅ Solution 1 : Guillemets doubles
-nom = "Je m'appelle Pierre"
-
-# ✅ Solution 2 : Échappement
-nom = 'Je m\'appelle Pierre'
-
-# ✅ Solution 3 : Alterner
-citation = 'Il a dit "Bonjour"'
-```
+- ✅ Les 4 types natifs : str, int, float, bool
+- ✅ Fonction `type()` pour identifier le type
+- ✅ Conversions avec `int()`, `float()`, `str()`, `bool()`
+- ✅ Différence entre int (entier) et float (décimal)
+- ✅ Booléens en Python (True/False avec majuscules)
+- ✅ Gestion guillemets/apostrophes dans les chaînes
+- ✅ Python fortement typé (pas de conversion automatique)
 
 ---
 
 ## ✅ Exercices complétés
 
 - [x] Exercice 1 : Créer des objets natifs (100%)
-- [x] Exercice 2 : Corriger les erreurs chaînes (100%)
-- [x] Exercice 3 : Corriger les variables (100%)
+- [x] Exercice 2 : Corriger erreurs chaînes (100%)
+- [x] Exercice 3 : Corriger variables (100%)
 
 ---
 
 ## 📊 Scores Quiz
 
 **Udemy :**
-- Quiz 3 (Chaînes) : 5/5 ✅
-- Quiz 4 (Booléens) : 3/3 ✅
-- Quiz 5 (Types natifs) : 7/7 ✅
+- Quiz 3 (Chaînes) : 5/5 (100%)
+- Quiz 4 (Booléens) : 3/3 (100%)
+- Quiz 5 (Types natifs) : 7/7 (100%)
 - **Total : 15/15 (100%)**
 
-**Quiz Claude :**
+**Claude :**
 - Score : 9.65/12 (80.4%)
-- **Statut : Validé** ✅
+- **Statut : Validée** ✅
 
 ---
 
-## 🎯 Points forts
-
-- Types natifs maîtrisés
-- Conversions comprises
-- Gestion guillemets OK
-- Détection d'erreurs
-
-## 🔄 Points à revoir
-
-- `input()` retourne toujours `str` (à retenir !)
-- Optimisation code (petits détails)
-
----
-
-## ✅ Section 12 VALIDÉE
-
-**Prête pour Section 13 !**
+## 🎓 Section validée le 15 février 2026
 

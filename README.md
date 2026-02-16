@@ -36,7 +36,9 @@ Objectif final : CDI à Alger, Algérie
 
 **Sections validées :** 2/80 (2.5%)  
 **Projets complétés :** 0/17  
-**Commits totaux :** 6
+**Commits totaux :** 6+
+
+**Dernières sections :** Section 12 (Types natifs) ✅, Section 13 (Variables) ✅
 
 ## 🛠️ Stack Technique Visée
 - **Backend :** Python, Django, Django REST Framework
