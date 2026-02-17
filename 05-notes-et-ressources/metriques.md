@@ -25,7 +25,8 @@
 |------|--------|----------|---------|---------|
 | Jour 1 (15 fév) | ~7h | 3 (12-14) | 7 | 0 |
 | Jour 2 (16 fév) | ~7-8h | 3 (15-17) | 10+ | 1 |
-| **Total** | **~14-15h** | **5** | **17+** | **1** |
+| Soir Jour 2 (16 fév) | ~1h | 2 (18 + début 19) | 3+ | 0 |
+| **Total** | **~15-16h** | **7** | **22+** | **1** |
 
 ---
 
@@ -135,7 +136,7 @@
 
 | Objectif 7 mois | Progrès | Commentaire |
 |-----------------|---------|-------------|
-| 80 sections | 5/80 (6.25%) | 🔥 Excellent démarrage |
+| 80 sections | 7/80 (8.75%) | 🔥 Excellent démarrage |
 | 17 projets Docstring | 0/17 | Section 20 = Premier projet |
 | 15+ projets VTC | 1/15 | Premier projet créé ! |
 | Portfolio GitHub | 🔄 En cours | Structure solide, se remplit |
