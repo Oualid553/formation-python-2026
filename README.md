@@ -26,26 +26,32 @@ Objectif final : CDI à Alger, Algérie
 
 ## 📊 Progression
 
-**Dernière mise à jour :** 15 février 2026
+**Dernière mise à jour :** 16 février 2026  
+**Jours actifs :** 2 (Samedi 15, Dimanche 16)
 
-| Phase | Sections | Statut |
-|-------|----------|--------|
-| Fondations | 12-32 | 🔄 En cours (2/21 complétées) |
-| Intermédiaire | 33-61 | ⏳ À venir |
-| Django | 71-74 | ⏳ À venir |
+| Phase | Sections | Statut | Moyenne |
+|-------|----------|--------|---------|
+| Fondations | 12-32 | 🔄 En cours (5/21 = 24%) | 92.5% |
+| Intermédiaire | 33-61 | ⏳ À venir | - |
+| Django | 71-74 | ⏳ À venir | - |
 
-**Sections validées :** 2/80 (2.5%)  
-**Projets complétés :** 0/17  
-**Commits totaux :** 6+
+**Sections validées :** 7/80 (8.75%) 
+**Projets Docstring :** 0/17  
+**Projets VTC perso :** 1/15  
+**Commits totaux :** 17+  
+**Heures codées :** ~14-15h
 
-**Dernières sections :** Section 12 (Types natifs) ✅, Section 13 (Variables) ✅
+**Dernières sections :**
+- ✅ Section 12 : Types natifs (93%)
+- ✅ Section 13 : Variables (90%)
+- ✅ Section 14 : Conversion (100%)
+- ✅ Section 15 : Input (100%)
+- ✅ Section 16 : Résolution problèmes
+- ✅ Section 17 : Strings (92%)
+- ✅ Section 18 : Opérateurs (100%)
+- 🔄 Section 19 : Formatage (en cours)
 
-## 🛠️ Stack Technique Visée
-- **Backend :** Python, Django, Django REST Framework
-- **Base de données :** PostgreSQL, SQLite
-- **Outils :** Git/GitHub, VS Code, Docker (bases)
-- **Tests :** unittest, pytest
-- **Déploiement :** Heroku, PythonAnywhere
+**Prochain objectif :** Section 18-20 (Opérateurs, Formatage, Projet Calculatrice)
 
 ## 📁 Structure Projet
 ```

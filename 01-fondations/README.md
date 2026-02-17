@@ -22,8 +22,8 @@ Cette partie couvre les bases essentielles de Python :
 | 15 | Input | ✅ Validée | 100% | 16/02 |
 | 16 | Résolution problèmes | ✅ Validée | - | 16/02 |
 | 17 | Strings | ✅ Validée | 92% | 16/02 |
-| 18 | Opérateurs | ⏳ À faire | - | - |
-| 19 | Formatage | ⏳ À faire | - | - |
+| 18 | Opérateurs | ✅ Validée | 100% | 16/02 |
+| 19 | Formatage | 🔄 En cours | - | 17/02 |
 | 20 | Projet #1 : Calculatrice | ⏳ À faire | - | - |
 | 21 | Conditions | ⏳ À faire | - | - |
 | 22 | Erreurs | ⏳ À faire | - | - |

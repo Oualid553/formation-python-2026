@@ -7,13 +7,11 @@
 
 | Métrique | Valeur |
 |----------|--------|
-| Sections validées | 5/80 (6.25%) |
-| Projets Docstring | 0/17 |
-| Projets VTC perso | 1 |
-| Heures codées (total) | ~14-15h |
-| Commits GitHub | 15+ |
-| Exercices résolus | 13 |
-| Cheatsheets créées | 1 (Strings) |
+| Sections validées | 7/80 (8.75%) |
+| Heures codées (total) | ~15-16h |
+| Commits GitHub | 20+ |
+| Exercices résolus | 14 |
+| Cheatsheets créées | 2 (Strings + Opérateurs) |
 
 ---
 
@@ -90,6 +88,17 @@
 - **Statut :** Validée le 16/02/2026
 
 ---
+
+### Section 18 - Opérateurs ✅
+- **Quiz 10 (Opérateurs math) :** 4/4 (100%)
+- **Quiz 11 (Assignation + Comparaison) :** 4/4 (100%)
+- **Temps :** ~1h (soir 22h-23h)
+- **Statut :** Validée le 16/02/2026
+
+### Section 19 - Formatage 🔄
+- **Exercice 14 :** 100% ✅
+- **Statut :** En cours (vidéo 121/124)
+- **Date début :** 16 février 2026
 
 ## Projets VTC Personnels
 

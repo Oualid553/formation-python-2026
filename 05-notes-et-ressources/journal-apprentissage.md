@@ -364,6 +364,39 @@ Grosse journée productive. Content d'avoir continué ce soir malgré la fatigue
 
 ---
 
+#### 🌙 BONUS SOIR (22h-23h) - "J'ai pas pu m'empêcher !"
+
+**Sections étudiées :** Section 18 (Opérateurs)
+**Temps :** 1h
+
+**Ce que j'ai appris :**
+- Opérateurs mathématiques : `+`, `-`, `*`, `/`, `//`, `%`, `**`
+- Module `math` pour opérations avancées
+- Opérateurs d'assignation : `+=`, `-=`, `*=`, etc.
+- Opérateurs de comparaison : `==`, `!=`, `>`, `<`, `>=`, `<=`
+- Différence CRITIQUE `is` vs `==` :
+  - `==` : Compare les valeurs
+  - `is` : Compare l'identité (même objet mémoire)
+  - Règle : `is` uniquement pour `None`
+
+**Scores :**
+- Quiz 10 : 4/4 (100%) ✅
+- Quiz 11 : 4/4 (100%) ✅
+
+**État d'esprit :** 🔥 Tellement motivé que j'ai pas pu m'arrêter !
+
+---
+
+#### 🌙 FIN SOIRÉE (23h) - Début Section 19
+
+**Section 19 commencée :**
+- Vidéos 118-120 vues
+- Exercice 14 (f-string URL) : 100% ✅
+
+**Arrêt à vidéo 121** - Reprise mardi matin
+
+---
+
 #### 📊 SCORES QUIZ & EXERCICES
 
 **Section 15 :**
