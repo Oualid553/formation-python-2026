@@ -36,7 +36,7 @@ Cette partie couvre les bases essentielles de Python :
 ---
 
 **Début :** 15 février 2026  
-**Sections complétées :** 6/16 (37.5%)  
+**Sections complétées :** 7/16 (43.75%)
 **Moyenne :** 92.5%  
 **Objectif fin :** Mars 2026
 ```

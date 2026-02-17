@@ -31,7 +31,7 @@ Objectif final : CDI à Alger, Algérie
 
 | Phase | Sections | Statut | Moyenne |
 |-------|----------|--------|---------|
-| Fondations | 12-32 | 🔄 En cours (5/21 = 24%) | 92.5% |
+| Fondations | 12-32 | 🔄 En cours (7/21 = 33%) | 95.8% |
 | Intermédiaire | 33-61 | ⏳ À venir | - |
 | Django | 71-74 | ⏳ À venir | - |
 
@@ -76,9 +76,9 @@ Objectif final : CDI à Alger, Algérie
 
 ## 🚀 Prochaines Étapes
 - [x] Setup GitHub
-- [ ] Section 12 : Types natifs
-- [ ] Section 13 : Variables
-- [ ] Premier projet VTC perso
+- [x] Section 12 : Types natifs
+- [x] Section 13 : Variables
+- [x] Premier projet VTC perso
 
 ---
 
