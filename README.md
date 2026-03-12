@@ -2,9 +2,9 @@
 
 ## 🎯 Objectif
 
-**Chauffeur VTC → Développeur Backend Python Junior**  
-**Timeline :** 7 mois (Février - Septembre 2026)  
-**Objectif final :** CDI à Alger, Algérie
+Chauffeur VTC → Développeur Backend Python Junior  
+Timeline : 7 mois (Février - Septembre 2026)  
+Objectif final : CDI à Alger, Algérie
 
 ---
 
@@ -12,98 +12,133 @@
 
 - **Âge :** 36 ans
 - **Métier actuel :** Chauffeur VTC (France)
-- **Niveau Python :** Débutant en reconversion sérieuse
+- **Niveau Python :** Débutant en reconversion
 - **Différenciation :** Expertise mobilité urbaine / logistique VTC
-- **Rythme :** 4 jours OFF (20-24h code) + 4 jours VTC (2h révision)
 
 ---
 
 ## 📚 Formation Principale
 
-[Formation Complète Python - Docstring (Udemy)](https://www.udemy.com/course/formation-complete-python/)
+[Formation Complète Python - Docstring](https://www.udemy.com/course/formation-complete-python/)
 
 - 80 sections
 - 17 projets pratiques
-- Focus : Backend, Django, REST APIs
+- Focus : Backend, Django, APIs
 
 ---
 
-## 📊 Progression Actuelle
+## 🗓️ Planning
 
-**Dernière mise à jour :** 5 mars 2026  
-**Jours actifs :** 8 jours de code (14-25 fév + 5 mars)
-
-### Statistiques Globales
-
-| Indicateur | Valeur | Progression |
-|------------|--------|-------------|
-| **Sections validées** | 15/80 | 18.75% 🔥 |
-| **Projets Docstring** | 3/17 | 17.6% |
-| **Projets VTC perso** | 3/15+ | 20% |
-| **Commits GitHub** | 22+ | ✅ |
-| **Heures codées** | ~30h | ✅ |
-| **Score moyen** | 95%+ | 🏆 |
-
-### Détail par Phase
-
-| Phase | Sections | Statut | Score | Projets |
-|-------|----------|--------|-------|---------|
-| **Fondations** | 12-28 | ✅ Complétées | 95%+ | 3/5 |
-| **Fondations suite** | 29-32 | 🔄 En cours | 95% | 1/2 |
-| **Intermédiaire** | 33-61 | ⏳ À venir | - | 0/5 |
-| **Django** | 71-74 | ⏳ À venir | - | 0/4 |
+- **Mois 1-2 :** Fondations Python (sections 12-32)
+- **Mois 3-4 :** Intermédiaire + POO + BDD (sections 33-61)
+- **Mois 5 :** Django (sections 71-74)
+- **Mois 6 :** Consolidation + Portfolio
+- **Mois 7 :** GoMyCode Alger + Recherche emploi
 
 ---
 
-## 🎯 Sections Complétées
+## 📊 Progression
 
-### ✅ Fondations (Sections 12-29)
+**Dernière mise à jour :** 12 mars 2026  
+**Jours actifs :** 26 jours (15 fév - 12 mars)
 
-| Section | Titre | Score | Date |
-|---------|-------|-------|------|
-| 12 | Types natifs | 93% | 14 fév |
-| 13 | Variables | 90% | 14 fév |
-| 14 | Conversion | 100% | 15 fév |
-| 15 | Input utilisateur | 100% | 15 fév |
-| 16 | Résolution problèmes | ✅ | 16 fév |
-| 17 | Strings | 92% | 16 fév |
-| 18 | Opérateurs | 100% | 16 fév |
-| 19 | Formatage strings | ✅ | 17 fév |
-| 21 | Conditions | ✅ | 22 fév |
-| 22 | Erreurs | ✅ | 22 fév |
-| 23 | Modules | ✅ | 23 fév |
-| 24 | Listes | ✅ | 24 fév |
-| 25 | Méthodes | 100% | 24 fév |
-| 26 | Boucles | 100% | 24 fév |
-| 27 | Exercices boucles | 97.5% | 25 fév |
-| 28 | Projet Calculatrice v2 | 95% | 25 fév |
-| **29** | **Projet Liste Courses** | **95%** | **5 mars** |
+### Sections : 19/80 (23.75%)
 
-**Total : 15 sections validées**
+| Phase | Sections | Statut | Progrès |
+|-------|----------|--------|---------|
+| **Partie 1 : Fondations** | 12-32 | ✅ **100%** | 19/19 |
+| **Partie 2 : Intermédiaire** | 33-61 | 🔄 En cours | 1/29 |
+| Partie 3 : Django | 71-74 | ⏳ À venir | 0/4 |
 
 ---
 
-## 🚀 Projets Réalisés
+### Détail Partie 1 (Sections 12-32) ✅ 100%
 
-### Projets Docstring Officiels (3/17)
+**Fondations Python :**
+- ✅ Section 12 : Types natifs (93%)
+- ✅ Section 13 : Variables (90%)
+- ✅ Section 14 : Conversion (100%)
+- ✅ Section 15 : Input (100%)
+- ✅ Section 16 : Résolution problèmes
+- ✅ Section 17 : Strings (92%)
+- ✅ Section 18 : Opérateurs (100%)
+- ✅ Section 19 : Formatage
 
-| # | Projet | Section | Status | Score |
-|---|--------|---------|--------|-------|
-| 1 | Calculatrice v1 | 20 | ✅ | 90% |
-| 2 | Calculatrice v2 (erreurs) | 28 | ✅ | 95% |
-| 3 | Liste de Courses | 29 | ✅ | 95% |
-| 4 | Nombre Mystère | 30 | ⏳ | - |
-| 5 | Jeu de Rôle | 31 | ⏳ | - |
+**Premier projet :**
+- ✅ Section 20 : Projet Calculatrice
 
-### Projets VTC Personnels (3/15+)
+**Structures de contrôle :**
+- ✅ Section 21 : Conditions
+- ✅ Section 22 : Erreurs
+- ✅ Section 23 : Modules
 
-| # | Projet | Concepts | Status |
-|---|--------|----------|--------|
-| 1 | Calculateur Tarif VTC | Listes, calculs | ✅ |
-| 2 | Calculateur + Validation | while, isdigit, validation | ✅ |
-| 3 | Gestionnaire Courses Jour | Menu interactif, enumerate | ✅ |
-| 4 | À venir | Dictionnaires | ⏳ |
-| 5 | À venir | Fonctions | ⏳ |
+**Collections & Boucles :**
+- ✅ Section 24 : Listes
+- ✅ Section 25 : Méthodes listes
+- ✅ Section 26 : Boucles
+- ✅ Section 27 : Exercices boucles
+
+**Projets pratiques :**
+- ✅ Section 28 : Calculatrice v2
+- ✅ Section 29 : Liste de Courses
+- ✅ Section 30 : Nombre Mystère
+- ✅ Section 31 : Jeu de Rôle
+
+**Récapitulatif :**
+- ✅ Section 32 : Fin Partie 1 (Examen 81%)
+
+---
+
+### Détail Partie 2 (Sections 33-61) 🔄 En cours
+
+**Fichiers & Persistance :**
+- ✅ Section 34 : Les fichiers et JSON (100%)
+- 🔄 Section 35 : Projet Liste Courses v2 (40% - en cours)
+
+**À venir :**
+- ⏳ Section 36 : pathlib
+- ⏳ Section 37 : Dictionnaires
+- ⏳ Sections 38-40 : Projets (trieur fichiers, créateur dossiers)
+- ⏳ Section 41 : Gestion erreurs (try/except)
+- ⏳ Section 42-43 : **Fonctions** (CRITIQUE)
+- ⏳ Sections 44-48 : Modules, packages, qualité code
+- ⏳ Section 53 : **Projet CRM**
+- ⏳ Sections 55-57 : **POO** (CRUCIAL)
+- ⏳ Sections 58-60 : **Bases de données**
+
+---
+
+### Projets
+
+**Projets Docstring : 5/17**
+1. ✅ Calculatrice v1 (Section 20)
+2. ✅ Calculatrice v2 (Section 28)
+3. ✅ Liste de Courses (Section 29)
+4. ✅ Nombre Mystère (Section 30)
+5. ✅ Jeu de Rôle (Section 31)
+6. 🔄 Liste Courses v2 avec JSON (Section 35 - en cours)
+
+**Projets VTC Perso : 5/5 (Partie 1)**
+1. ✅ Calculateur Tarif VTC
+2. ✅ Validation Input VTC
+3. ✅ Gestionnaire Courses Journalières
+4. ✅ Code Promo Mystère
+5. ✅ Duel Chauffeurs VTC
+
+**Prochains projets VTC (Partie 2) :**
+6. 🔄 Historique Courses avec JSON
+7. ⏳ Gestionnaire Clients VTC
+8. ⏳ Statistiques Courses Mensuelles
+
+---
+
+### Statistiques
+
+- **Commits totaux :** 30+
+- **Heures codées :** ~25h
+- **Lignes de code :** ~1500+
+- **README créés :** 10+
+- **Score moyen quiz :** 92%
 
 ---
 
@@ -112,226 +147,166 @@
 ```
 formation-python-2026/
 │
-├── 01-fondations/                    # Sections 12-32
-│   ├── section-12-types-natifs/
+├── 01-fondations/              # Sections 12-27 (exercices)
+│   ├── section-12-types/
 │   ├── section-13-variables/
 │   ├── ...
-│   └── section-29-liste-courses/
+│   └── section-34-fichiers/    # JSON, persistance
 │
-├── 02-projets-docstring/             # 17 projets cours
+├── 02-projets-docstring/       # 17 projets cours
 │   ├── projet-01-calculatrice/
 │   ├── projet-02-calculatrice-v2/
-│   └── projet-03-liste-courses/
+│   ├── projet-03-liste-courses/
+│   ├── projet-04-nombre-mystere/
+│   ├── projet-05-jeu-role/
+│   └── projet-06-liste-courses-v2/ (en cours)
 │
-├── 03-projets-perso-vtc/             # Projets thème VTC
+├── 03-projets-perso-vtc/       # Projets thème VTC
 │   ├── 01-calculateur-tarif/
-│   ├── 02-calculateur-validation/
-│   └── 03-gestionnaire-courses/
+│   ├── 02-validation-input/
+│   ├── 03-gestionnaire-courses/
+│   ├── 04-code-promo-mystere/
+│   └── 05-duel-chauffeurs/
 │
-├── 04-exercices-algorithmique/       # France-IOI, Codewars
+├── 04-exercices-algorithmique/ # France-IOI, Codewars
 │
-├── 05-notes-et-ressources/           # Journal, cheatsheets
-│   ├── cheatsheets/
+├── 05-notes-et-ressources/     # Fiches révision
 │   ├── fiches-revision/
 │   └── journal-apprentissage.md
 │
-└── 06-portfolio-final/               # Projets phares (mois 6)
+└── 06-portfolio-final/         # Projets phares (Mois 6)
 ```
 
 ---
 
-## 🛠️ Compétences Acquises
+## 🎓 Ressources
 
-### Concepts Python Maîtrisés
+**Formation :**
+- **Docstring (Udemy)** - Formation principale
+- Django Girls Tutorial (gratuit FR)
+- Pierre Giraud (gratuit FR)
+- Documentation Python/Django (FR)
 
-| Concept | Niveau | Sections |
-|---------|--------|----------|
-| Variables, types de base | ⭐⭐⭐ | 12-14 |
-| Strings, formatage | ⭐⭐⭐ | 17, 19 |
-| Opérateurs | ⭐⭐⭐ | 18 |
-| Input utilisateur | ⭐⭐⭐ | 15 |
-| Conditions (if/elif/else) | ⭐⭐⭐ | 21 |
-| Listes | ⭐⭐⭐ | 24-25 |
-| Boucles (while, for) | ⭐⭐⭐ | 26-27 |
-| enumerate() | ⭐⭐⭐ | 29 |
-| Validation entrées | ⭐⭐⭐ | 28-29 |
-| Menu interactif | ⭐⭐⭐ | 29 |
-| Gestion erreurs basique | ⭐⭐ | 22, 28 |
-| Modules (sys, random, os) | ⭐⭐ | 23 |
+**Pratique :**
+- **France-IOI** - Algorithmique français
+- **Codewars** - Katas Python
+- **Exercism** - Mentorat gratuit
 
-### Outils & Pratiques
-
-- ✅ Git & GitHub (commits, push, pull)
-- ✅ VS Code
-- ✅ Terminal Linux/Windows
-- ✅ Documentation (README, commentaires)
-- ✅ Tests manuels
-- ✅ Debugging basique
+**Mentors IA :**
+- **Claude** - Explications, debugging, review
+- **Gemini** - Second avis
 
 ---
 
-## 📅 Planning 7 Mois
+## 📈 Métriques & Rythme
 
-### ✅ Mois 1 (Février) - Fondations COMPLÉTÉ
+**Rythme hebdomadaire :**
+- 4 jours OFF : apprentissage intensif (20-24h/semaine)
+- 4 jours VTC : révision légère (2h/semaine)
+- **Total : ~24h/semaine**
 
-**Objectif :** Bases Python solides  
-**Résultat :** 12 sections, 2 projets, GitHub structuré
-
-### 🔄 Mois 2 (Mars) - Fondations Suite EN COURS
-
-**Objectifs :**
-- Finir Partie 1 (sections 29-32)
-- 3 projets Docstring supplémentaires
-- 2 projets VTC supplémentaires
-
-**Prochain :** Section 30 (Nombre Mystère)
-
-### ⏳ Mois 3-4 (Avril-Mai) - Intermédiaire + POO
-
-**Objectifs :**
-- Sections 33-61
-- POO (Programmation Orientée Objet)
-- Bases de données
-- Projets 6-11
-
-### ⏳ Mois 5 (Juin) - Django
-
-**Objectifs :**
-- Sections 71-74
-- 4 apps Django
-- REST APIs
-- Tests unitaires
-
-### ⏳ Mois 6 (Juillet) - Portfolio
-
-**Objectifs :**
-- Projets Django avancés
-- Portfolio professionnel
-- CV + LinkedIn
-- Préparation entretiens
-
-### ⏳ Mois 7 (Août) - GoMyCode Alger
-
-**Objectifs :**
-- Bootcamp Django (3 mois)
-- Networking
-- Recherche emploi intensive
-- **Objectif CDI Septembre 2026**
+**Validation sections :**
+- Quiz 80%+ obligatoire
+- Projets testés et documentés
+- README complets
+- Code commenté
 
 ---
 
-## 🎓 Ressources Utilisées
+## 🎯 Compétences Actuelles
 
-### Formation
-- **Principal :** Docstring (Udemy) - 80 sections
-- **Gratuit :** Pierre Giraud, Django Girls Tutorial
-- **Documentation :** Python.org, Django Docs
+### Partie 1 - Maîtrisées ✅
 
-### Pratique
-- **Algorithmique :** France-IOI, Codewars, Exercism
-- **Projets perso :** Thème VTC (différenciation)
+**Bases Python :**
+- Variables, types, conversion
+- Opérateurs (math, comparaison, logiques)
+- Conditions (if/elif/else)
+- Boucles (for, while, enumerate)
+- Listes et méthodes
+- Strings et formatage (f-strings)
+- Input et validation
 
-### Mentors IA
-- **Claude (Anthropic)** - Mentor principal, code review, explications
-- **Gemini (Google)** - Second avis
+**Concepts avancés Partie 1 :**
+- Modules (random, sys)
+- Gestion erreurs basique
+- Algorithmes jeux simples
+- Pseudo-code
 
----
-
-## 📈 Prochaines Étapes
-
-### Court Terme (Mars 2026)
-
-**Cette semaine :**
-- [ ] Section 30 : Projet Nombre Mystère
-- [ ] Section 31 : Projet Jeu de Rôle
-- [ ] Section 32 : Fin Partie 1
-- [ ] Projet VTC #4
-
-**Fin mars :**
-- [ ] Sections 29-32 terminées
-- [ ] 5 projets Docstring
-- [ ] 4-5 projets VTC
-
-### Moyen Terme (Avril-Mai)
-
-- [ ] Commencer Partie 2 (sections 33-61)
-- [ ] Maîtriser les dictionnaires
-- [ ] Apprendre les fonctions
-- [ ] Introduction POO
-
-### Long Terme (Juin-Août)
-
-- [ ] Django complet
-- [ ] Portfolio 4-5 projets Django
-- [ ] Tests unitaires
-- [ ] GoMyCode Alger
+**Partie 2 - En cours 🔄 :**
+- Fichiers texte (lecture/écriture)
+- Format JSON (load/dump)
+- Persistance données
+- Module os (chemins)
 
 ---
 
-## 🌟 Points Forts
+## 🚀 Prochaines Étapes
 
-### Différenciation Portfolio
+**Court terme (Mars 2026) :**
+- ✅ Finir Section 35 (Projet Liste Courses v2)
+- ⏳ Section 36-37 (pathlib, dictionnaires)
+- ⏳ Projets VTC #6-7 avec fichiers/JSON
 
-**Thème VTC = Unique ! 🚕**
+**Moyen terme (Avril-Mai 2026) :**
+- ⏳ Sections 42-43 : **Fonctions** (CRITIQUE)
+- ⏳ Sections 55-57 : **POO** (CRUCIAL pour Django)
+- ⏳ Sections 58-60 : **Bases de données**
 
-Contrairement aux autres étudiants Docstring qui font tous les mêmes projets, mon portfolio démontre :
-
-1. **Expertise métier** - 5 ans VTC/mobilité urbaine
-2. **Adaptation de code** - Concepts génériques → applications réelles
-3. **Pensée pratique** - Use cases concrets du terrain
-4. **Portfolio unique** - Aucun autre étudiant n'a cette approche
-
-**→ Atout différenciant pour recruteurs ! 🎯**
-
-### Rigueur & Organisation
-
-- ✅ Documentation systématique (README, commentaires)
-- ✅ GitHub propre et structuré
-- ✅ Commits réguliers et clairs
-- ✅ Validation 80%+ par section
-- ✅ Code review avant commit
-
-### Méthodologie
-
-- ✅ Apprentissage actif (coder, pas juste regarder)
-- ✅ Projets perso en parallèle
-- ✅ Tests manuels systématiques
-- ✅ Révisions espacées (flashcards Anki)
-- ✅ Honnêteté (documentation erreurs)
+**Long terme (Juin 2026+) :**
+- ⏳ Sections 71-74 : **Django** (objectif principal)
+- ⏳ Portfolio Django complet
+- ⏳ GoMyCode Alger (Juillet-Août)
+- 🎯 **Premier CDI (Septembre 2026)**
 
 ---
 
-## 🤲 Adaptation Ramadan
+## 💪 Points Forts Portfolio
 
-**Mars 2026 :** Rythme adapté
+**Différenciation unique :**
+- ✅ Expertise métier VTC (5+ ans terrain)
+- ✅ Projets Python thème mobilité urbaine
+- ✅ Double casquette : code + connaissance business
+- ✅ Portfolio GitHub structuré et documenté
+- ✅ Discipline autodidacte (formation pendant Ramadan)
 
-- ⏰ 1-2h/jour maximum jours OFF
-- 🎯 1 section tous les 2-3 jours
-- 💪 Qualité > Quantité
-- 🤲 Santé et ibadah prioritaires
-
-**→ Continuer doucement mais sûrement ! 💪**
-
----
-
-## 📞 Contact
-
-- **GitHub :** [Oualid553](https://github.com/Oualid553)
-- **Projet :** Formation Python 2026
-- **Objectif :** Développeur Backend Python Junior
-- **Localisation :** France → Algérie (Alger)
+**Profil recruteur idéal :**
+> "Développeur junior avec expertise unique mobilité urbaine + logistique VTC. Capable de modéliser processus métier complexes en code Python."
 
 ---
 
-## 📜 Licence
+## 📅 Historique
 
-Ce repository est personnel et à but éducatif.  
-Portfolio de reconversion professionnelle.
+**Février 2026 :**
+- 15-16 fév : Sections 12-18 (setup + fondations)
+- 17-23 fév : Sections 19-27 (formatage, conditions, listes, boucles)
+- 24 fév : Section 28 (Calculatrice v2) + Projets VTC #1-2
+- 26 fév - 4 mars : **Pause Ramadan** (révisions passives)
+
+**Mars 2026 :**
+- 5 mars : Retour actif - Section 29 (Liste Courses) + VTC #3
+- 10 mars : Section 30-31 (Nombre Mystère, Jeu Rôle) + VTC #4-5
+- 11 mars : **Section 32 - FIN PARTIE 1** (Examen 81%) 🎉
+- 12 mars : Section 34 (Fichiers/JSON) + Début Section 35
 
 ---
 
-**Début formation :** 14 février 2026  
-**Dernière màj :** 5 mars 2026  
+## 🎯 Objectif Final Rappel
+
+**Métier :** Développeur Backend Python Junior  
+**Lieu :** Alger, Algérie (ou remote France)  
+**Salaire visé :** 80 000-150 000 DZD/mois (550-1000€)  
+**Stack :** Python, Django, PostgreSQL, REST APIs, Git  
+**Différenciation :** Expertise mobilité urbaine / logistique VTC
+
+**Profil unique :**
+> "Développeur junior + 5 ans expérience terrain mobilité urbaine"
+
+---
+
+**Début formation :** 15 février 2026  
 **Objectif CDI :** Septembre 2026  
+**État actuel :** Partie 1 complète ✅, Partie 2 en cours 🔄
 
-**Let's code ! 🚀💪**
+---
+
+*Ce README est mis à jour régulièrement. Dernière mise à jour : 12 mars 2026*
